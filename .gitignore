@@ -1,0 +1,8 @@
+.idea
+*.iml
+out/
+.idea/misc.xml
+*.sqlite3
+*.sqlite
+*.TestMain
+*.TestDrtiver
