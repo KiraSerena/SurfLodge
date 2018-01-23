@@ -87,6 +87,5 @@ public class MyMain
 
         int antalPladser;
 
-        Tur nytur = new Tur ();
     }
 }
